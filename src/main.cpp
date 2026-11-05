@@ -4,8 +4,8 @@
 #include <LittleFS.h>
 #include <ArduinoJson.h>
 
-const char *ssid = "EpsilonNET";
-const char *password = "zaq123456";
+const char *ssid = "";
+const char *password = "";
 
 // Піни для датчика HC-SR04
 const int trigPin = 14; // D5
